@@ -115,7 +115,7 @@ Este projeto foi desenvolvido como parte do meu portfólio de **Data Science** p
 
 Estudante de Ciência de Dados e IA | Fundação Santo André
 
-📧 [Seu email profissional]  
+📧 [Email](Ryuhigashi@hotmail.com)
 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)  
 🐙 [GitHub](https://github.com/RyuHigashi)
 
